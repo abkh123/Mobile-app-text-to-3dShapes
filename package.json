@@ -1,0 +1,13 @@
+{
+  "name": "mobile-app-text2cad",
+  "version": "1.0.0",
+  "scripts": {
+    "start:backend": "cd backend && npm start",
+    "start:frontend": "cd frontend && npm start"
+  },
+  "description": "Unified project with React Native frontend + Node.js backend",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
